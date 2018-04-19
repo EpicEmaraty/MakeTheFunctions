@@ -70,7 +70,7 @@ void printVector ( vector <int> &prj)
      {
       cout<<prj[i]<<" ";
      }
-    cout<<endl;
+    
 }
 
 
